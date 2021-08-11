@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="robloxGetButton.svg" width=30%>
+    <img src="./resources/robloxGetButton.svg" width=30%>
     <h1>Roblox Semi Auto Free Buyer (RSAFB)</h1>
     <p><i>Yes. im not great with names!</i></p>
     <p>A user script that will lessen the work in grabbing free items from Roblox's Catalog</p>
@@ -7,7 +7,7 @@
 
 ## How does it work?
 
-<img src="ZuBZoCpqqo.gif" align=right width=50%>
+<img src="./resources/demo.gif" align=right width=50%>
 
 This user script will automatically click the "Get" button on catalog item pages that are free before automatically confirming your purchase when the confirmation popup appears. Simply click on a free item in the catalog page and the script will grab it for you automatically.
 
