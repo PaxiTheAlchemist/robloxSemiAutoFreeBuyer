@@ -6,7 +6,7 @@
 // @grant       none
 // @version     1.0
 // @author      PaxiTheAlchemist
-// @description A script that will lessen the work in grabbing free items from Roblox's Catalog. This script will automatically click the "Get" button on catalog item pages that are free. Simply click on a free item in the catalog page and the script will grab it for you automatically. (Disclaimer: this script does not buy items that cost robux or buying priced items for free)
+// @description A user script that will lessen the work in grabbing free items from Roblox's Catalog. This user script will automatically click the "Get" button on catalog item pages that are free. Simply click on a free item in the catalog page and the script will grab it for you automatically. (Disclaimer: this script does not buy items that cost robux or buying priced items for free)
 // ==/UserScript==
 
 window.addEventListener('load', function() { 
